@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+#root {
+    height: 100%;
+}
+
+.my-extension {
+    padding: 20px;
+ }
+ .my-extension h1 {
+     color: #000;
+ }
